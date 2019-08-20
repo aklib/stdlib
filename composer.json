@@ -19,7 +19,6 @@
         "zendframework/zend-mvc-i18n" : "^1.1.0"
     },
     "require-dev": {
-        "roave/security-advisories": "dev-master",
         "phpunit/phpunit": "^5.7.25 || ^6.4.4"
     },
     "autoload": {
