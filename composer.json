@@ -1,10 +1,13 @@
 {
-    "name": "system/library",
-    "description": "Basic Library",    
+    "name": "aklib/stdlib",
+    "description": "Basic Library",
+    "type" : "Library",
+    "keywords" : ["library"],
     "authors": [
         {
             "name": "Alexej Kisselev",
-            "email": "alexej.kisselev@gmail.com"
+            "email": "alexej.kisselev@gmail.com",
+            "role" : "developer"
         }
     ],
     "require": {
@@ -16,6 +19,7 @@
         "zendframework/zend-mvc-i18n" : "^1.1.0"
     },
     "require-dev": {
+        "roave/security-advisories": "dev-master",
         "phpunit/phpunit": "^5.7.25 || ^6.4.4"
     },
     "autoload": {
