@@ -1,12 +1,6 @@
 <?php
 
-/**
- * $Id:$
- * $HeadURL:$
- * $Date:$
- * $Author:$
- * $Revision: $
- * 
+/** 
  * AbstractAwareForm.php
  * 
  * @since 07.04.2018

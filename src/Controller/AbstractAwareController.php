@@ -1,11 +1,6 @@
 <?php
 
 /**
- * $Id:$
- * $HeadURL:$
- * $Date:$
- * $Author:$
- * $Revision: $
  * 
  * AbstractAwareController.php
  * 

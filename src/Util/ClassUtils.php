@@ -1,12 +1,6 @@
 <?php
 
-/**
- * $Id:$
- * $HeadURL:$
- * $Date:$
- * $Author:$
- * $Revision: $
- * 
+/** 
  * StringUtils.php
  * 
  * @since 01.06.2017

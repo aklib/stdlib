@@ -1,12 +1,6 @@
 <?php
 
 /**
- * $Id:$
- * $HeadURL:$
- * $Date:$
- * $Author:$
- * $Revision: $
- * 
  * DateTimeUtils.php
  * 
  * @since 27.09.2017

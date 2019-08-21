@@ -11,11 +11,6 @@
  */
 
 /**
- * $Id:$
- * $HeadURL:$
- * $Date:$
- * $Author:$
- * $Revision: $
  * 
  * StringUtils.php
  * 
